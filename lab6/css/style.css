@@ -1,0 +1,45 @@
+.circle{
+    width: 1030px;
+    height: 100px;
+    position: absolute;
+    top: 49.6%;
+    left: 250px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+  .moving-block {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    animation: moveRight 5s linear infinite;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 40%;
+  }
+  .animate-bottom {
+    position: relative;
+    -webkit-animation-name: animatebottom;
+    -webkit-animation-duration: 1s;
+    animation-name: animatebottom;
+    animation-duration: 1s
+  }
+  
+  @keyframes moveRight {
+    0% {
+      left: 230px;
+      background-color: #3498db; /* Початковий колір */
+      opacity:0;
+    }
+    50% {
+      left: calc(50% - 50px);
+      background-color: #f39c12; /* Проміжний колір */
+      opacity:1;
+    }
+    100% {
+      left: calc(67% + 67px);
+      background-color: #3498db; /* Кінцевий колір */
+      opacity:0;
+    }
+  }

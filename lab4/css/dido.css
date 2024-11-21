@@ -1,0 +1,9 @@
+.dido img {
+    position: absolute;
+    top: 90px;
+    left: 353px;
+    width: 100px;
+    height: 95px;
+    border-radius: 45%;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 90%);
+  }

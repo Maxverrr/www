@@ -1,0 +1,93 @@
+﻿ul {
+    list-style-type: none;
+  }
+  img{
+    width: 20px; 
+    height: 20px; 
+    position: relative;
+    left: 10px;
+    top: 45px;
+  }
+  .WSSA{
+    padding-top:6px;
+  }
+  .winter_mouth{
+    position: relative;
+    left: 22px;
+    padding-top:6px;
+  }
+  .lusta{
+    position: relative;
+    left: 15px;
+    top: 70px;
+  }
+  .lusta1{
+    position: relative;
+    left: -10px;
+    top:95px;
+  }
+  .lusta2{
+    position: relative;
+    left: -34px;
+    top: 120px;
+  }
+  .SpringFoto{
+    position: relative;
+    left: -80px;
+    top: 170px;
+  }
+  .SpringFoto1{
+    position: relative;
+    left:-105px;
+    top: 197px;
+  }
+  .SpringFoto2{
+    position: relative;
+    left:-129px;
+    top: 222px;
+  }
+  .Spring{
+    position: relative;
+    left:-87px;
+    top: 146px;
+  }
+  .Summer{
+    position: relative;
+    left:-181px;
+    top: 246px;
+  }
+  .SummerFoto{
+    position: relative;
+    left:-176px;
+    top: 270px;
+  }
+  .SummerFoto1{
+    position: relative;
+    left:-200px;
+    top: 296px;
+  }
+  .SummerFoto2{
+    position: relative;
+    left:-223px;
+    top: 322px;   
+  }
+  .AutumnFoto{
+    position: relative;
+    left:-273px;
+    top: 373px;
+  }
+  .Autumn{
+    position: relative;
+    left:-278px;
+    top: 347px;
+  }
+  .AutumnFoto1{
+    position: relative;
+    left:-297px;
+    top: 398px;
+  }
+  .AutumnFoto2{
+    position: relative;
+    left:-320px;
+    top: 422px;
+  }

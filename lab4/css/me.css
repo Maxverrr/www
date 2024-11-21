@@ -1,0 +1,9 @@
+.me img {
+  position: absolute;
+  top: 400px;
+  left: 163px;
+  width: 100px;
+  height: 99px;
+  border-radius: 40%;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 90%);
+}

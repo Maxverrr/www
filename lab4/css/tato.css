@@ -1,0 +1,9 @@
+.tato img {
+    position: absolute;
+    top: 215px;
+    left: 240px;
+    width: 100px;
+    height: 106px;
+    border-radius: 40%;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 90%);
+  }

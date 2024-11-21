@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.gallery {
+    max-width: 1200px;
+    margin: 0 auto; 
+    overflow: hidden; 
+}
+
+.gallery-item {
+    width: 30%;
+    margin: 1.5%;
+    float: left; 
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 100%; 
+    transition: all 0.3s ease; 
+    filter: grayscale(100%); /* Чорно-білий фільтр по замовчуванню */
+}
+
+.gallery-item p {
+    margin-top: 10px; /* Відступ тексту від зображення */
+    font-size: 16px;
+    color: #333;
+}
+
+.gallery-item h2 {
+    margin-top: 10px; /* Відступ тексту від зображення */
+    font-size: 22px;
+    color: #333;
+}
+
+.gallery-item img:hover {
+    filter: none; /* Видалення чорно-білого фільтра */
+    transform: translateY(-5px); /* Зсув догори на 5px */
+}

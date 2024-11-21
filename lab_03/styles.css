@@ -1,0 +1,221 @@
+﻿.den {
+    border: 2px solid black;
+    text-align: center;
+    width: 5px;
+    height: 52px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color:#9EB8D9;
+  }
+  
+  .para {
+    border: 2px solid black;
+    text-align: center;
+    width: 12px;
+    height: 52px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    left: -3px;
+    background-color:#9EB8D9;
+  }
+  
+  .tuz {
+    border: 2px solid black;
+    text-align: center;
+    width: 12px;
+    height: 52px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    left: -6.5px;
+    background-color:#9EB8D9;
+  }
+  
+  .imua {
+    border: 2px solid black;
+    padding: 9px;
+    text-align: center;
+    width: 157px;
+    height: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    left: -10.5px;
+    top: -1px;
+    background-color:#C6CF9B;
+  }
+  .imua1 {
+    border: 2px solid black;
+    padding: 9px;
+    text-align: center;
+    width: 157px;
+    height: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    left: -10.5px;
+    top: 1px;
+    background-color:#C6CF9B;
+  }
+  .ayd1 {
+    border: 2px solid black;
+    text-align: center;
+    width: 12px;
+    height: 52px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    left: -15px;
+    background-color:#C6CF9B;
+  }
+  .ayd2 {
+    border: 2px solid black;
+    text-align: center;
+    width: 12px;
+    height: 52px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    left: -18px;
+    background-color:#C6CF9B;
+  }
+  .numer {
+    border: 2px solid black;
+    text-align: center;
+    width: 22px;
+    height: 34px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    top: -16px;
+    left: -3.9px;
+    background-color:#9EB8D9;
+  }
+  .tuzNumber {
+    border: 2px solid black;
+    text-align: center;
+    width: 28px;
+    height:15px;
+    font-size: 8px;
+    font-weight: bold;
+    position: relative;
+    top: -15px;
+    left:-8.5px;
+    background-color:#9EB8D9;
+  }
+  .chet {
+    text-align: center;
+    width: 20px;
+    height: 22px;
+    font-weight: bold;
+  }
+  .chet1{
+    border: 2px solid black;
+    text-align: center;
+    width: 36px;
+    height:185px;
+    position: relative;
+    top: -16.5px;
+    left:-0.5px;
+    background-color:#9EB8D9;
+  }
+  .nazvaPar {
+    border: 2px solid black;
+    text-align: left;
+    width: 177px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -5px;
+    left:-12px;
+    font-weight: bold;
+  }
+  .nazvaPar1 {
+    border: 2px solid black;
+    text-align: left;
+    width: 177px;
+    height:20.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-12px;
+    font-weight: bold;
+  }
+  .nazvaPar2 {
+    border: 2px solid black;
+    text-align: left;
+    width: 177px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-12px;
+    font-weight: bold;
+  }
+  .aydNum {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -5px;
+    left:-14.4px;
+    font-weight: bold;
+  }
+  .aydNum1 {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:20.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-14.4px;
+    font-weight: bold;
+  }
+  .aydNum2 {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-14.4px;
+    font-weight: bold;
+  }
+  .aydNum22 {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -5px;
+    left:-17px;
+    font-weight: bold;
+  }
+  .aydNum221 {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:20.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-17px;
+    font-weight: bold;
+  }
+  .aydNum222 {
+    border: 2px solid black;
+    text-align: left;
+    width: 24px;
+    height:33.5px;
+    font-size: 12px;
+    position: relative;
+    top: -27px;
+    left:-17px;
+    font-weight: bold;
+  }

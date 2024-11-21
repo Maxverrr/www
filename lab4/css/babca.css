@@ -1,0 +1,9 @@
+.babca img {
+    position: absolute;
+    top: 145px;
+    left: 500px;
+    width: 100px;
+    height: 90px;
+    border-radius: 40%;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 90%)
+  }
